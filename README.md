@@ -1,2 +1,2 @@
-# [polyextend.github.io](polyextend.github.io)
+# [http://polyextend.github.io](polyextend.github.io)
 Website for PolyDev
